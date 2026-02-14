@@ -1,4 +1,3 @@
-## Hi there 👋
 ![github-banner](https://github.com/user-attachments/assets/60762458-2d08-438f-98f3-6c58c79a8088)
 
 ### Languages and Tools
